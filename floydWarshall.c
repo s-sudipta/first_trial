@@ -31,7 +31,7 @@ void printMatrix(int matrix[][nV]) {
   for (int i = 0; i < nV; i++) {
     for (int j = 0; j < nV; j++) {
       if (matrix[i][j] == INF)
-        printf("%4s", "INF");
+        printf("%4s", "vaiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiiii");
       else
         printf("%4d", matrix[i][j]);
     }
